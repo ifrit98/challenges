@@ -1,3 +1,6 @@
+/*
+/ Implementation using set to avoid duplicates (~80ms runtime for this list)
+*/
 import java.util.List;
 import java.util.Set;
 import java.util.Arrays;
