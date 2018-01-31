@@ -24,7 +24,7 @@ public class ThreeSum {
     } 
 
     public static void main(String[] args)  { 
-    	ThreeSume t = new ThreeSume();
+    	ThreeSum t = new ThreeSum();
     	int[] nums = new int[] {-1,0,1,2,-1,-4};
     	System.out.println(t.threeSum(nums));
     } 
